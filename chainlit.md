@@ -12,3 +12,8 @@ We can't wait to see what you create with Chainlit! Happy coding! 💻😊
 ## Welcome screen
 
 To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+
+# Welcome to the Q&A Bot
+
+This bot can answer questions based on the provided documents. Just enter your question in the text box and get your answer with sources.
+
