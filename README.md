@@ -16,9 +16,9 @@ This project implements an OnDemand Q&A bot to assist professors in retrieving i
    cd OnDemand-Professor-Q-A-Bot
 2. Install required libraries
 3. Environment Variables:
-  Set up the Hugging Face API token by adding it to the environment variables:
+  Set up the OPEN AI API token by adding it to the environment variables:
     ```bash
-    `export HUGGINGFACEHUB_API_TOKEN='your-huggingface-api-key'`
+    `export OPENAI_API_KEY_TOKEN='your-openai-api-key'`
 
 ### Adopted Libraries
 The following libraries are used in this project:
